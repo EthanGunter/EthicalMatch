@@ -1,8 +1,8 @@
 # Welcome to the Team!
 We can't start a movement alone! To make this vision a reality, we need passionate people like you to push boundaries, defend our cause, and spread the word.  
-Below are guides for getting involved in specific areas
+Below are guides for different ways to get involved!
 ## Designers
-- [[UI & UX Designers]] - Design the visuals and user experience of EthicalMatch
+- [UI & UX Designers](UI%20&%20UX%20Designers.md) - Design the visuals and user experience of EthicalMatch
 ## Programmers
 - [Front-End Development](Technical%20Documentation/Front%20End/README.md) - Write the code that people interact with
 - [[Back-End Development]] - Write the code that actually connects people

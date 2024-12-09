@@ -21,10 +21,10 @@ Our [roadmap](ROADMAP.md) will show you our currently planned features, and what
 If you'd like something added to the app, fill out a **[Feature Request](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=feature&projects=&template=feature_request.md&title=)** GitHub Issue  
 If you'd like to see a change to the docs, fill out a **[Documentation](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=enhancement&projects=&template=documentation-change.md&title=)** GitHub Issue
 
-# Want to Get Involved?
+# Want to [Get Involved](Join%20the%20Team!/README.md)?
 Regardless of your skillset, there's a place for you to help! Check out our [team](Join%20the%20Team!/README.md) page for various ways you can contribute to the success of EthicalMatch.
 
 > [!Note]
-> *This project is very young*. You'll likely run into pages that aren't finished, or don't even exist yet. If you see text surrounded like [[this]], it's a placeholder wikilink. It indicates a page that doesn't exist yet, and is a great place for your first contribution! For information on how that works with EthicalMatch, checkout our [Contribution Guide](CONTRIBUTING.md)
+> *This project is very young*. You'll likely run into pages that aren't finished, or don't even exist yet. If you see text surrounded like \[[this]], it's a placeholder wikilink. It indicates a page that doesn't exist yet, and is a great place for your first contribution! For information on how that works with EthicalMatch, checkout our [Contribution Guide](CONTRIBUTING.md)
 # Contact
 Still have questions? Feel free to reach out to the team through our community [Discord](https://discord.gg/P7qfVuqMXz)! 

@@ -81,5 +81,5 @@ We're looking for 2 things:
 > [!Tip]
 > When you make this final documentation pull request, link it to the pull request for your code from step 4 to help it get accepted faster
 
-# First time contributing to open source?
+# First time Contributing to Open Source?
 We have a [first pull-request guide](Join%20the%20Team!/Your%20first%20pull%20request.md) to get you started!

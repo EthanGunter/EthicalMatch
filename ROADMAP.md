@@ -6,7 +6,7 @@ If you're looking for something to work on, features higher up in the list are l
 *This phase will produce a minimally viable web app, and a server for it to interact with. This will be the programmatic foundation of EthicalMatch*
 ## V0.1 ![](https://progress-bar.xyz/0)
 <details>
-<summary>see contents...</summary>
+<summary>see contents…</summary>
 
 ### Front-End
 - Downloadable PWA [#13](https://github.com/Ethical-Commons-Project/EthicalMatch/issues/13)
@@ -33,7 +33,7 @@ If you're looking for something to work on, features higher up in the list are l
 *This phase will focus on implementing all the necessary features for EthicalMatch to provide a fully functional match making service for the public. This is where non-development roles will start to play a bigger role as our publicity and responsibility to the public grow*
 ## V1.1 ![](https://progress-bar.xyz/0)
 <details>
-<summary>see contents...</summary>
+<summary>see contents…</summary>
 
 
 ### Marketing
