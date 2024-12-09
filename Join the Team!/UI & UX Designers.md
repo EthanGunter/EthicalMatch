@@ -4,13 +4,14 @@ As a UI and/or UX designer, you fill the essential first step in making new idea
 ---
 # Your Workflow
 1. Find an Issue
-2. Collaborate
-3. Create Visual Designs
-4. Submit And Refine
-5. Handoff To Developers
+1. Collaborate
+1. Create Visual Designs
+1. Submit And Refine
+1. Handoff To Developers
 
 ## Find a UI/UX Issue
-- Find a GitHub issue in need of design work. You can filter for these issues in the [issues](https://github.com/Ethical-Commons-Project/EthicalMatch/issues) search bar with `label:"UI/UX design"`, or use the [Feature Development Project](https://github.com/orgs/Ethical-Commons-Project/projects/2/views/8) to see an up-to-date list
+When a feature request issue is created, if it is determined to need some form of design work, it will be labeled with `UI/UX Design`. Most GitHub Issues opened with the `Src: front-end` label will also have the `UI/UX Design` label.  
+To find a GitHub issue in need of design work. You can filter for these issues in the [issues](https://github.com/Ethical-Commons-Project/EthicalMatch/issues) search bar with `label:"UI/UX design"`, or use the [Feature Development Project](https://github.com/orgs/Ethical-Commons-Project/projects/2/views/8) to see an up-to-date list
 > [!Note]
 > GitHub issues labeled #`UI/UX design` will be blocked from working until *some* form of visual documentation is provided to guide the implementation
 ## Collaborate
